@@ -1,0 +1,13 @@
+begin:
+
+pseudo code:
+
+if (x==y){k
+	do this;
+}
+
+if (arr[3] != [v2])
+	return false;
+}
+
+end

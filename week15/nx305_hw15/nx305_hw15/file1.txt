@@ -1,0 +1,4 @@
+17 5.25 Daniel Katz
+18 6.75 John F. Jones
+50 10.2 Joe Swen Jr.
+21 8 Sam Adams

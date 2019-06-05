@@ -1,0 +1,6 @@
+*********Payroll Information********
+Joe Swen Jr., $459
+John F. Jones, $270
+Sam Adams, $240
+Daniel Katz, $210
+*********End payroll**************
